@@ -4,8 +4,7 @@
 
 ## About me
 
-I gradulated from the Poznan Univerisity of Technology with a master's degree. I'm intrested in machine learning and data science. 
-My favorite programming language is Kotlin, because I've started programming with writting applications for Android devices. 
+I graduated from the Poznan Univerisity of Technology with a master's degree. I'm interested in machine learning and data science. My favorite programming language is Kotlin because I've started programming with writing applications for Android devices.
 
 ## Technologies
 
