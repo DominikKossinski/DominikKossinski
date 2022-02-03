@@ -12,6 +12,7 @@ I graduated from the Poznan Univerisity of Technology with a master's degree. I'
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=A0A0A0&logo=python&logoColor=FFFFFF)
 ![R](https://img.shields.io/static/v1?label=&message=R&color=A0A0A0&logo=r&logoColor=FFFFFF)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=A0A0A0&logo=java&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=A0A0A0&logo=jupyter&logoColor=FFFFFF)
 
 <!--
 **DominikKossinski/DominikKossinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
