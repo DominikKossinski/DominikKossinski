@@ -1,10 +1,11 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Dominik%20Kossinski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominik-kossinski/)](https://www.linkedin.com/in/dominik-kossinski/)
 [![GitHub DominikKossinski](https://img.shields.io/github/followers/DominikKossinski?label=follow&style=social)](https://github.com/DominikKossinski)
+<a  href="https://orcid.org/0000-0003-2321-3677"><img style="vertical-align:middle" src="assets/ORCIDiD_icon128x128.png" width="25" height="25"/></a>
 
 ## About me
 
-I graduated from the Poznan Univerisity of Technology with a master's degree. I'm interested in machine learning and data science. My favorite programming language is Kotlin because I've started programming with writing applications for Android devices.
+I graduated from the Poznan University of Technology with a master's degree. I'm interested in machine learning and data science. My favorite programming language is Kotlin because I've started programming with writing applications for Android devices.
 
 ## Technologies
 
