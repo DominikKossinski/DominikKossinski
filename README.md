@@ -7,7 +7,7 @@
 
 I graduated from the Poznan University of Technology with a master's degree. I'm interested in machine learning and data science. My favorite programming language is Kotlin because I've started programming with writing applications for Android devices.
 
-Currenty working at [iYoni](https://iyoni.app).
+Currenty working at iYoni.
 
 Interests:
 - Machine Learning In Medicine
