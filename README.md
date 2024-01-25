@@ -23,6 +23,10 @@ Interests:
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=A0A0A0&logo=java&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=A0A0A0&logo=jupyter&logoColor=FFFFFF)
 
+## Contact
+
+Fill form on [kossinski.pl/contact](https://kossinski.pl/contact).
+
 <!--
 **DominikKossinski/DominikKossinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
