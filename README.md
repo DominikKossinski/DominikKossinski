@@ -5,15 +5,15 @@
 
 ## About me
 
-I graduated from the Poznan University of Technology with a master's degree. I'm interested in machine learning and data science. My favorite programming language is Kotlin because I've started programming with writing applications for Android devices.
+I am an **Applied Doctorate PhD Student** at **Poznan University of Technology** and a **Machine Learning Engineer** at **iYoni**
 
-Currenty working at iYoni.
+My work sits at the intersection of research and industry application, with a primary focus on applications of ML/AI in Medicine (mostly Reproductive Medicine).
 
-Interests:
-- Machine Learning In Medicine
-- Data Science
-- Computer vision
-- Android
+**My core interests include:**
+* 🩺 **Machine Learning in Medicine**: Applying AI to solve real-world health challenges.
+* 👁️ **Computer Vision**: Image analysis and diagnostics.
+* 📊 **Data Science**: Extracting insights from complex datasets.
+* 📱 **Android**: Integrating ML models into mobile ecosystems.
 
 ## Technologies
 
